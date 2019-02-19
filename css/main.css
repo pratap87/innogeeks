@@ -1,0 +1,34 @@
+
+.ar{
+    font-family: 'Ceviche One';
+    font-size: 90px;
+    letter-spacing: 5px;
+    color:burlywood;
+}
+.type{
+     font-family: 'Cinzel Decorative';
+     letter-spacing: 2px;
+}
+.cl{
+    background-color:black;
+    box-shadow: 2px 5px 10px blue;
+    height: 310px;
+}
+.cl h3{
+    color: aliceblue;
+}
+.cs{
+    background-image: url("/img/back2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.back{
+    background-image: url("/img/back.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: aliceblue;
+}
